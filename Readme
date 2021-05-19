@@ -1,0 +1,11 @@
+The proposed system Vegetable Vendor Application is an android application developed using the Android Studio Java and Firebase.The main objective of this project to order and sell
+vegetables and fruits online. It contains users such as Seller and Customer. In this application multiple sellers from a place can register as seller and can sell vegetables and 
+fruits. So the customer can buy fruits and vegetables from other sellers also if the required fruits and vegetables are not there in stock with a seller.
+
+Link to code
+https://bitbucket.org/linetmshaji/vegetable-vendor/src/code/
+
+As i mentioned this is a Firebase based android application, so we need to register our project in firebase to use firebase real time database.
+Please follow this steps to register android app with firebase
+https://firebase.google.com/docs/android/setup
+
